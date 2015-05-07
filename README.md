@@ -5,6 +5,8 @@ Auto-deploy/Release kit written in NodeJS for managing builds on multiple server
 
 Requires NodeJS to run.
 
+Python 2.7 is required to build the modules.
+
 ```bash
 npm install
 ```
