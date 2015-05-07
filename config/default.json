@@ -1,0 +1,9 @@
+{
+  // Customer module configs
+  "Server": {
+    "dbConfig": {
+      "type": "pouchdb",
+      "location": "./database"
+    }
+  }
+}
